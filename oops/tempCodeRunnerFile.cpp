@@ -1,0 +1,1 @@
+cout<<"health is :- "<<ramesh.health;
